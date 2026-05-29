@@ -1,0 +1,6 @@
+{
+  "name": "Stages Lawn and Landscape",
+  "description": "A fully responsive clone of the Stages Lawn and Landscaping website, featuring services, testimonials, and a quote form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
